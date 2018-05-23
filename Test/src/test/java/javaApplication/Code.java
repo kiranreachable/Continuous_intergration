@@ -24,7 +24,7 @@ public class Code {
 		JFrame guiFrame = new JFrame();
 		// make sure the program exits when the frame closes
 		guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		guiFrame.setTitle("Example GUI");
+		guiFrame.setTitle("Example1 GUI");
 		guiFrame.setSize(300, 250);
 		// This will center the JFrame in the middle of the screen
 		guiFrame.setLocationRelativeTo(null);
